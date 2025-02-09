@@ -2,6 +2,8 @@
 
 **Time Master** is a modern, responsive web application that combines a **Stopwatch**, **Timer**, **Alarm**, and **World Clock** into one sleek interface. Built with HTML, CSS, JavaScript, and GSAP animations, this project is designed to be user-friendly and visually appealing.
 
+**Watch Live** https://bhavu7.github.io/Stop-Watch/
+
 ---
 
 ## Features ✨
@@ -73,4 +75,4 @@
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/time-master.git
+   git clone https://github.com/Bhavu7/Stop-Watch.git
