@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![Project Screenshot](StopWatch.png) <!-- Replace with your actual screenshot URL -->
+![Project Screenshot](Stopwatch.png) <!-- Replace with your actual screenshot URL -->
 
 **Watch Live** https://bhavu7.github.io/Stop-Watch/
 
